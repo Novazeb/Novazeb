@@ -12,16 +12,16 @@
   <!-- Quick Badges -->
   <p align="center">
     <a href="https://portofolionova.netlify.app/">
-      <img src="https://img.shields.io/badge/🌐_Portfolio-portofolionova.netlify.app-06B6D4?style=for-the-badge&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-portofolionova.netlify.app-06B6D4?style=for-the-badge&logoColor=white" alt="Portfolio" />
     </a>
     <a href="mailto:novaberkatsyukurzebua@gmail.com">
-      <img src="https://img.shields.io/badge/✉️_Email_Me-novaberkatsyukurzebua%40gmail.com-3B82F6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email_Me-novaberkatsyukurzebua%40gmail.com-3B82F6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://instagram.com/zebua_1011">
-      <img src="https://img.shields.io/badge/📸_Instagram-@zebua__1011-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+      <img src="https://img.shields.io/badge/Instagram-@zebua__1011-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
     <a href="https://drive.google.com/drive/folders/1OPL7Nov9LcKEIGu8AKQ4OBfo07QD0BDC?usp=sharing">
-      <img src="https://img.shields.io/badge/📄_Download_CV-Google_Drive-22C55E?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+      <img src="https://img.shields.io/badge/Download_CV-Google_Drive-22C55E?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
     </a>
   </p>
 
@@ -31,17 +31,17 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 Pengembang Web Profesional & IT Specialist dengan dedikasi tinggi dalam merancang dan mengembangkan Sistem Informasi berbasis web modern serta pemeliharaan infrastruktur IT yang kokoh.
 
-* 💻 **Fokus Utama:** Full-Stack Web Development, System Architecture, & IT Infrastructure Maintenance
-* 🚀 **Filosofi:** Sistem yang andal membutuhkan sinergi antara kode berkualitas, optimasi database, dan pemeliharaan IT yang terkonfigurasi dengan baik.
-* 📬 **Reach out to me:** [novaberkatsyukurzebua@gmail.com](mailto:novaberkatsyukurzebua@gmail.com)
+* **Fokus Utama:** Full-Stack Web Development, System Architecture, & IT Infrastructure Maintenance
+* **Filosofi:** Sistem yang andal membutuhkan sinergi antara kode berkualitas, optimasi database, dan pemeliharaan IT yang terkonfigurasi dengan baik.
+* **Reach out to me:** [novaberkatsyukurzebua@gmail.com](mailto:novaberkatsyukurzebua@gmail.com)
 
 ---
 
-### ⚙️ System Architecture Core
+### System Architecture Core
 
 <pre><code>import { Reliability } from '@/core/it-specialist';
 
@@ -62,12 +62,12 @@ await system.deploy({
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🌐 Frontend & Web Technologies</h4>
+      <h4>Frontend & Web Technologies</h4>
       <img src="https://img.shields.io/badge/Next-14233A?style=for-the-badge&logo=next.js&logoColor=white" />
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
@@ -78,7 +78,7 @@ await system.deploy({
       <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h4>🖥️ Backend & Databases</h4>
+      <h4>Backend & Databases</h4>
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -91,7 +91,7 @@ await system.deploy({
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🛠️ IT Specialist & Infrastructure</h4>
+      <h4>IT Specialist & Infrastructure</h4>
       <img src="https://img.shields.io/badge/System_Architecture-06B6D4?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
       <img src="https://img.shields.io/badge/Server_Maintenance-3B82F6?style=for-the-badge&logo=serverless&logoColor=white" />
       <img src="https://img.shields.io/badge/Network_Config-8B5CF6?style=for-the-badge&logo=cisco&logoColor=white" />
@@ -99,7 +99,7 @@ await system.deploy({
       <img src="https://img.shields.io/badge/Troubleshooting-F59E0B?style=for-the-badge&logo=buildkite&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h4>🚀 Cloud & DevOps Utilities</h4>
+      <h4>Cloud & DevOps Utilities</h4>
       <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
       <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
       <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
@@ -111,39 +111,48 @@ await system.deploy({
 
 ---
 
-### 🚀 Featured Projects
+### Experience
 
-| Project | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :---: |
-| **🍽️ Hao Wei Restaurant System** | Self-Service Kiosk Pemesanan Restoran Fine-Dining & Real-time POS Admin Panel. | `Next.js` `React` `Socket.io` `PostgreSQL` `Prisma` | [Live Demo](https://haoweiresto.netlify.app/) \| [Repo](https://github.com/Novazeb) |
-| **📑 mergeall** | Client-Side PDF & Image Utilities (Merge, Compress, Convert) 100% Client-Side. | `React` `Vite` `JSZip` `Tailwind` | [Live Demo](https://mergeall.netlify.app/) \| [Repo](https://github.com/Novazeb/mergeall.git) |
-| **📡 ceknet** | Network Speed Test & Diagnostic Dashboard presisi tinggi dengan grafik bandwidth. | `React` `Vite` `Express` `Recharts` | [Live Demo](https://ceknet.vercel.app/) \| [Repo](https://github.com/Novazeb/ceknet.git) |
-| **📚 DocuTree** | Knowledge Base & Internal Wiki Platform dengan navigasi pohon bertingkat & TipTap Editor. | `Laravel 11` `Vue 3` `Inertia` `MySQL` | [Repo](https://github.com/Novazeb/docutree.git) |
-| **🎙️ SpeechText Studio** | Local AI Audio Transcriber & Subtitle Editor berbasis Whisper AI tanpa cloud API. | `FastAPI` `Python` `React` `Whisper AI` | [Repo](https://github.com/Novazeb/speechtext) |
-| **🤖 ResponAI** | Cyberpunk AI Assistant ditenagai Model Google Gemini dengan API terisolasi. | `Python` `FastAPI` `Gemini API` `Tailwind` | [Live Demo](https://respon-ai.vercel.app/) \| [Repo](https://github.com/Novazeb) |
-| **🎮 CYBER TAC TOE** | Cyberpunk Tic Tac Toe Game dengan fluid animations & mode single/multiplayer. | `Next.js` `React` `Framer Motion` | [Live Demo](https://tictactoemodern.netlify.app/) \| [Repo](https://github.com/Novazeb) |
-| **📸 Lumina Photo Studio** | Platform Informasi & Reservasi Pemesanan Pemotretan Foto Studio Digital. | `Next.js` `React` `Tailwind CSS` | [Live Demo](https://luminastudiophoto.netlify.app/) \| [Repo](https://github.com/Novazeb) |
-| **⌚ Simpel Smartwatch Platform** | Landing Page & Katalog Spesifikasi Smartwatch Modern. | `Laravel` `PHP` `JavaScript` `Tailwind` | [Live Demo](https://mywatch-production.up.railway.app/) \| [Repo](https://github.com/Novazeb) |
-| **🍿 CemilCemil E-Commerce** | Platform E-Commerce Katalog & Pemesanan Cemilan Kuliner Online. | `PHP` `MySQL` `CSS3` | [Live Demo](https://cemilcemil.web.id/) \| [Repo](https://github.com/Novazeb) |
+<pre><code>IT Staff Intern — Badan Riset dan Inovasi Daerah
+Mei 2025 – Agu 2025
+- Mengelola pemeliharaan website resmi instansi untuk memastikan uptime dan aksesbilitas prima.
+- Pembaruan konten secara berkala dan optimasi kecepatan muat halaman.
+- Layanan dukungan teknis pengoperasian IT Specialist & IT Staff harian.
+
+Web Developer Intern — PT. Masinfo Technology Indonesia
+Sep 2024 – Jan 2025
+- Pengalaman pengembangan modul fitur aplikasi web menggunakan PHP & Framework modern.
+- Investigasi dan bug fixing aktif pada sistem produksi untuk menjaga stabilitas sistem.
+- Troubleshooting hardware & software komputer kantor secara komprehensif.</code></pre>
 
 ---
 
-### 📊 GitHub Stats & Activity
+### Featured Projects
 
-<div align="center">
- 
-</div>
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :---: |
+| **Hao Wei Restaurant System** | Self-Service Kiosk Pemesanan Restoran Fine-Dining & Real-time POS Admin Panel. | `Next.js` `React` `Socket.io` `PostgreSQL` `Prisma` | [Live Demo](https://haoweiresto.netlify.app/) \| [Repo](https://github.com/Novazeb) |
+| **mergeall** | Client-Side PDF & Image Utilities (Merge, Compress, Convert) 100% Client-Side. | `React` `Vite` `JSZip` `Tailwind` | [Live Demo](https://mergeall.netlify.app/) \| [Repo](https://github.com/Novazeb/mergeall.git) |
+| **ceknet** | Network Speed Test & Diagnostic Dashboard presisi tinggi dengan grafik bandwidth. | `React` `Vite` `Express` `Recharts` | [Live Demo](https://ceknet.vercel.app/) \| [Repo](https://github.com/Novazeb/ceknet.git) |
+| **DocuTree** | Knowledge Base & Internal Wiki Platform dengan navigasi pohon bertingkat & TipTap Editor. | `Laravel 11` `Vue 3` `Inertia` `MySQL` | [Repo](https://github.com/Novazeb/docutree.git) |
+| **SpeechText Studio** | Local AI Audio Transcriber & Subtitle Editor berbasis Whisper AI tanpa cloud API. | `FastAPI` `Python` `React` `Whisper AI` | [Repo](https://github.com/Novazeb/speechtext) |
+| **ResponAI** | Cyberpunk AI Assistant ditenagai Model Google Gemini dengan API terisolasi. | `Python` `FastAPI` `Gemini API` `Tailwind` | [Live Demo](https://respon-ai.vercel.app/) \| [Repo](https://github.com/Novazeb) |
+| **CYBER TAC TOE** | Cyberpunk Tic Tac Toe Game dengan fluid animations & mode single/multiplayer. | `Next.js` `React` `Framer Motion` | [Live Demo](https://tictactoemodern.netlify.app/) \| [Repo](https://github.com/Novazeb) |
+| **Lumina Photo Studio** | Platform Informasi & Reservasi Pemesanan Pemotretan Foto Studio Digital. | `Next.js` `React` `Tailwind CSS` | [Live Demo](https://luminastudiophoto.netlify.app/) \| [Repo](https://github.com/Novazeb) |
+| **Simpel Smartwatch Platform** | Landing Page & Katalog Spesifikasi Smartwatch Modern. | `Laravel` `PHP` `JavaScript` `Tailwind` | [Live Demo](https://mywatch-production.up.railway.app/) \| [Repo](https://github.com/Novazeb) |
+| **CemilCemil E-Commerce** | Platform E-Commerce Katalog & Pemesanan Cemilan Kuliner Online. | `PHP` `MySQL` `CSS3` | [Live Demo](https://cemilcemil.web.id/) \| [Repo](https://github.com/Novazeb) |
 
+---
 
-<br/>
+### GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Novazeb&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=Novazeb&theme=tokyonight&hide_border=true" width="715" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📬 Connect with Me
+### Connect with Me
 
 <div align="center">
 
