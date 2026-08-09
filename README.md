@@ -158,6 +158,6 @@ await system.deploy({
   </a>
 
   <br/><br/>
-  <sub><i>Designed with ❤️ for Nova Berkat Syukur Zebua</i></sub>
+  <sub><i>Designed by Nova Berkat Syukur Zebua</i></sub>
 
 </div>
