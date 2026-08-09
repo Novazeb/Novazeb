@@ -111,22 +111,6 @@ await system.deploy({
 
 ---
 
-### 💼 Experience
-
-<pre><code>🏢 IT Staff Intern — Badan Riset dan Inovasi Daerah
-📅 Mei 2025 – Agu 2025
-🔹 Mengelola pemeliharaan website resmi instansi untuk memastikan uptime dan aksesbilitas prima.
-🔹 Pembaruan konten secara berkala dan optimasi kecepatan muat halaman.
-🔹 Layanan dukungan teknis pengoperasian IT Specialist & IT Staff harian.
-
-🏢 Web Developer Intern — PT. Masinfo Technology Indonesia
-📅 Sep 2024 – Jan 2025
-🔹 Pengalaman pengembangan modul fitur aplikasi web menggunakan PHP & Framework modern.
-🔹 Investigasi dan bug fixing aktif pada sistem produksi untuk menjaga stabilitas sistem.
-🔹 Troubleshooting hardware & software komputer kantor secara komprehensif.</code></pre>
-
----
-
 ### 🚀 Featured Projects
 
 | Project | Description | Tech Stack | Links |
