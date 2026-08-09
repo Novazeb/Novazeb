@@ -130,10 +130,11 @@ await system.deploy({
 
 ### 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Novazeb&show_icons=true&theme=tokyonight&hide_border=true" alt="Nova's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Novazeb&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Novazeb&show_icons=true&theme=tokyonight&hide_border=true" width="400" alt="Nova's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Novazeb&layout=compact&theme=tokyonight&hide_border=true" width="300" alt="Top Languages" />
+</div>
+
 
 <br/>
 
