@@ -130,16 +130,16 @@ await system.deploy({
 
 ### 📊 GitHub Stats & Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Novazeb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b101b&title_color=06B6D4&icon_color=3B82F6&text_color=94A3B8" alt="Nova's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Novazeb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b101b&text_color=94A3B8" alt="Top Languages" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Novazeb&show_icons=true&theme=tokyonight&hide_border=true" alt="Nova's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Novazeb&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Novazeb&theme=tokyonight&hide_border=true&background=0b101b&stroke=06B6D4&ring=06B6D4&fire=3B82F6&currStreakLabel=06B6D4" alt="GitHub Streak" width="97%" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Novazeb&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+</p>
 
 ---
 
@@ -158,6 +158,6 @@ await system.deploy({
   </a>
 
   <br/><br/>
-  <sub><i>Designed with ❤️ for Nova Berkat Syukur Zebua, S.Kom</i></sub>
+  <sub><i>Designed with ❤️ for Nova Berkat Syukur Zebua</i></sub>
 
 </div>
