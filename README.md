@@ -131,8 +131,7 @@ await system.deploy({
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Novazeb&show_icons=true&theme=tokyonight&hide_border=true" width="400" alt="Nova's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Novazeb&layout=compact&theme=tokyonight&hide_border=true" width="300" alt="Top Languages" />
+ 
 </div>
 
 
