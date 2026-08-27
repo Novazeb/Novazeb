@@ -113,13 +113,7 @@ await system.deploy({
 
 ### Experience
 
-<pre><code>IT Staff Intern — Badan Riset dan Inovasi Daerah
-Mei 2025 – Agu 2025
-- Mengelola pemeliharaan website resmi instansi untuk memastikan uptime dan aksesbilitas prima.
-- Pembaruan konten secara berkala dan optimasi kecepatan muat halaman.
-- Layanan dukungan teknis pengoperasian IT Specialist & IT Staff harian.
-
-Web Developer Intern — PT. Masinfo Technology Indonesia
+<pre><code>Web Developer Intern — PT. Masinfo Technology Indonesia
 Sep 2024 – Jan 2025
 - Pengalaman pengembangan modul fitur aplikasi web menggunakan PHP & Framework modern.
 - Investigasi dan bug fixing aktif pada sistem produksi untuk menjaga stabilitas sistem.
@@ -140,7 +134,7 @@ Sep 2024 – Jan 2025
 
 <div align="center">
 
-  <a href="https://portofolionova.netlify.app/">
+  <a href="https://novazebua.vercel.app/">
     <img src="https://img.shields.io/badge/Website-portofolionova.netlify.app-06B6D4?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
   <a href="https://instagram.com/zebua_1011">
