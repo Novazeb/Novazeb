@@ -127,22 +127,6 @@ Sep 2024 – Jan 2025
 
 ---
 
-### Featured Projects
-
-| Project | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :---: |
-| **Hao Wei Restaurant System** | Self-Service Kiosk Pemesanan Restoran Fine-Dining & Real-time POS Admin Panel. | `Next.js` `React` `Socket.io` `PostgreSQL` `Prisma` | [Live Demo](https://haoweiresto.netlify.app/) \| [Repo](https://github.com/Novazeb) |
-| **mergeall** | Client-Side PDF & Image Utilities (Merge, Compress, Convert) 100% Client-Side. | `React` `Vite` `JSZip` `Tailwind` | [Live Demo](https://mergeall.netlify.app/) \| [Repo](https://github.com/Novazeb/mergeall.git) |
-| **ceknet** | Network Speed Test & Diagnostic Dashboard presisi tinggi dengan grafik bandwidth. | `React` `Vite` `Express` `Recharts` | [Live Demo](https://ceknet.vercel.app/) \| [Repo](https://github.com/Novazeb/ceknet.git) |
-| **DocuTree** | Knowledge Base & Internal Wiki Platform dengan navigasi pohon bertingkat & TipTap Editor. | `Laravel 11` `Vue 3` `Inertia` `MySQL` | [Repo](https://github.com/Novazeb/docutree.git) |
-| **SpeechText Studio** | Local AI Audio Transcriber & Subtitle Editor berbasis Whisper AI tanpa cloud API. | `FastAPI` `Python` `React` `Whisper AI` | [Repo](https://github.com/Novazeb/speechtext) |
-| **ResponAI** | Cyberpunk AI Assistant ditenagai Model Google Gemini dengan API terisolasi. | `Python` `FastAPI` `Gemini API` `Tailwind` | [Live Demo](https://respon-ai.vercel.app/) \| [Repo](https://github.com/Novazeb) |
-| **CYBER TAC TOE** | Cyberpunk Tic Tac Toe Game dengan fluid animations & mode single/multiplayer. | `Next.js` `React` `Framer Motion` | [Live Demo](https://tictactoemodern.netlify.app/) \| [Repo](https://github.com/Novazeb) |
-| **Lumina Photo Studio** | Platform Informasi & Reservasi Pemesanan Pemotretan Foto Studio Digital. | `Next.js` `React` `Tailwind CSS` | [Live Demo](https://luminastudiophoto.netlify.app/) \| [Repo](https://github.com/Novazeb) |
-| **Simpel Smartwatch Platform** | Landing Page & Katalog Spesifikasi Smartwatch Modern. | `Laravel` `PHP` `JavaScript` `Tailwind` | [Live Demo](https://mywatch-production.up.railway.app/) \| [Repo](https://github.com/Novazeb) |
-| **CemilCemil E-Commerce** | Platform E-Commerce Katalog & Pemesanan Cemilan Kuliner Online. | `PHP` `MySQL` `CSS3` | [Live Demo](https://cemilcemil.web.id/) \| [Repo](https://github.com/Novazeb) |
-
----
 
 ### GitHub Stats & Activity
 
