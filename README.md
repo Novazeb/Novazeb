@@ -136,6 +136,11 @@ Sep 2024 – Jan 2025
   <img src="https://streak-stats.demolab.com/?user=Novazeb&theme=tokyonight&background=0b0f19&border=00f2fe&stroke=00f2fe&ring=ff007f&fire=00ff87&currStreakNum=38bdf8&sideNums=e2e8f0&sideLabels=94a3b8&currStreakLabel=38bdf8" width="715" alt="GitHub Streak" />
 </p>
 
+<div align="center">
+  <p>
+    JALUR PEMBUAT GITHUB STATS
+  </p>
+  
 ---
 
 ### Connect with Me
