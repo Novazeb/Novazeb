@@ -125,10 +125,10 @@ Sep 2024 – Jan 2025
 
 <p align="center">
   <a href="https://github.com/Novazeb">
-    <img src="https://github-stats-gray-three.vercel.app/api/stats?username=Novazeb&theme=modern-rgb" alt="Nova's GitHub Stats" />
+    <img src="https://github-stats-gray-three.vercel.app/api/stats?username=Novazeb&theme=modern-rgb&v=2" alt="Nova's GitHub Stats" />
   </a>
   <a href="https://github.com/Novazeb">
-    <img src="https://github-stats-gray-three.vercel.app/api/top-langs?username=Novazeb&theme=modern-rgb&layout=compact" alt="Most Used Languages" />
+    <img src="https://github-stats-gray-three.vercel.app/api/top-langs?username=Novazeb&theme=modern-rgb&layout=compact&v=2" alt="Most Used Languages" />
   </a>
 </p>
 
