@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Typing SVG Header -->
-  <a href="https://portofolionova.netlify.app/">
+  <a href="https://novazebua.vercel.app/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&height=70&lines=Nova+Berkat+Syukur+Zebua%2C+S.Kom%3BFull-Stack+Web+Developer%3BIT+Specialist+%26+Systems+Engineer%3BBuilding+Scalable+Digital+Solutions" alt="Typing Banner" />
   </a>
 
