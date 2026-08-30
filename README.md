@@ -12,7 +12,7 @@
   <!-- Quick Badges -->
   <p align="center">
     <a href="https://novazebua.vercel.app/">
-      <img src="https://img.shields.io/badge/Portfolio-novazebua.vercel.app-06B6D4?style=for-the-badge&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-novazebua.vercel.app-011215?style=for-the-badge&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://portofolionova.netlify.app/">
       <img src="https://img.shields.io/badge/Portfolio-portofolionova.netlify.app-06B6D4?style=for-the-badge&logoColor=white" alt="Portfolio" />
@@ -146,8 +146,10 @@ Sep 2024 – Jan 2025
 ### Connect with Me
 
 <div align="center">
-
   <a href="https://novazebua.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-novazebua.vercel.app-011215?style=for-the-badge&logoColor=white" alt="Portfolio" />
+    </a>
+  <a href="https://portofolionova.netlify.app/">
     <img src="https://img.shields.io/badge/Website-portofolionova.netlify.app-06B6D4?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
   <a href="https://instagram.com/zebua_1011">
