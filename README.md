@@ -12,6 +12,9 @@
   <!-- Quick Badges -->
   <p align="center">
     <a href="https://novazebua.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-novazebua.vercel.app-06B6D4?style=for-the-badge&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://portofolionova.netlify.app/">
       <img src="https://img.shields.io/badge/Portfolio-portofolionova.netlify.app-06B6D4?style=for-the-badge&logoColor=white" alt="Portfolio" />
     </a>
     <a href="mailto:novaberkatsyukurzebua@gmail.com">
