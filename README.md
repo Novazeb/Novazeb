@@ -137,7 +137,7 @@ Sep 2024 – Jan 2025
 
 <div align="center">
   <p>
-    JALUR PEMBUAT GITHUB STATS
+    S+ TIER JALUR PEMBUAT GITHUB STATS PRIBADI
   </p>
 
   
