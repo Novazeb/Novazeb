@@ -50,7 +50,7 @@ Pengembang Web Profesional & IT Specialist dengan fokus merancang sistem informa
 
 ---
 
-### ⚙️ System Architecture Core
+###  System Architecture Core
 
 ```typescript
 import { Reliability } from '@/core/it-specialist';
@@ -74,3 +74,19 @@ const engineer = new SystemsEngineer({
 
 await engineer.deploy();
 // Status: > Deployment successful. Systems operational.
+
+```
+
+---
+
+### STATISTICS
+
+<p align="center">
+  <a href="https://github.com/Novazeb">
+    <img src="https://github-stats-gray-three.vercel.app/api/stats?username=Novazeb&theme=modern-rgb&rank=S%2B" alt="Novazeb's GitHub Stats" />
+  </a>
+  <a href="https://github.com/Novazeb">
+    <img src="https://github-stats-gray-three.vercel.app/api/top-langs?username=Novazeb&theme=modern-rgb&layout=compact" alt="Top Languages" />
+  </a>
+</p>
+
