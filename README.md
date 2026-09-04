@@ -2,33 +2,38 @@
 
   <!-- Typing SVG Header -->
   <a href="https://novazebua.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&height=70&lines=Nova+Berkat+Syukur+Zebua%2C+S.Kom%3BFull-Stack+Web+Developer%3BIT+Specialist+%26+Systems+Engineer%3BBuilding+Scalable+Digital+Solutions" alt="Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=06B6D4&center=true&vCenter=true&width=750&height=70&lines=Nova+Berkat+Syukur+Zebua%2C+S.Kom%3BFull-Stack+Web+Developer%3BIT+Specialist+%26+Systems+Engineer%3BBuilding+Scalable+Digital+Solutions" alt="Typing Banner" />
   </a>
 
   <p align="center">
     <b>Pengembang Web & IT Specialist yang menjembatani Sistem Informasi cerdas dengan infrastruktur IT yang handal, aman, dan terukur.</b>
   </p>
 
-  <!-- Quick Badges -->
+  <!-- Live Portfolios -->
   <p align="center">
-    <a href="https://novazebua.vercel.app/">
-      <img src="https://img.shields.io/badge/Portfolio-novazebua.vercel.app-011215?style=for-the-badge&logoColor=white" alt="Portfolio" />
+    <a href="https://novazebua.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Porto_Utama-novazebua.vercel.app-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Porto Utama" />
     </a>
-    <a href="https://portofolionova.netlify.app/">
-      <img src="https://img.shields.io/badge/Portfolio-portofolionova.netlify.app-06B6D4?style=for-the-badge&logoColor=white" alt="Portfolio" />
+    <a href="https://portofolionova.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Porto_v2-portofolionova.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Porto v2" />
     </a>
-    <a href="mailto:novaberkatsyukurzebua@gmail.com">
-      <img src="https://img.shields.io/badge/Email_Me-novaberkatsyukurzebua%40gmail.com-3B82F6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://instagram.com/zebua_1011">
-      <img src="https://img.shields.io/badge/Instagram-@zebua__1011-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="https://drive.google.com/drive/folders/1OPL7Nov9LcKEIGu8AKQ4OBfo07QD0BDC?usp=sharing">
-      <img src="https://img.shields.io/badge/Download_CV-Google_Drive-22C55E?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+    <a href="https://portov3-seven.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Porto_v3-portov3--seven.vercel.app-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" alt="Porto v3" />
     </a>
   </p>
 
-  <br/>
+  <!-- Contact & Action Badges -->
+  <p align="center">
+    <a href="https://drive.google.com/drive/folders/1OPL7Nov9LcKEIGu8AKQ4OBfo07QD0BDC?usp=sharing" target="_blank">
+      <img src="https://img.shields.io/badge/Curriculum_Vitae-Download_PDF-22C55E?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+    </a>
+    <a href="mailto:novaberkatsyukurzebua@gmail.com">
+      <img src="https://img.shields.io/badge/Email-novaberkatsyukurzebua%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://instagram.com/zebua_1011" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-@zebua__1011-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+  </p>
 
 </div>
 
@@ -36,130 +41,36 @@
 
 ### About Me
 
-Pengembang Web Profesional & IT Specialist dengan dedikasi tinggi dalam merancang dan mengembangkan Sistem Informasi berbasis web modern serta pemeliharaan infrastruktur IT yang kokoh.
+Pengembang Web Profesional & IT Specialist dengan fokus merancang sistem informasi berbasis web modern yang terintegrasi langsung dengan infrastruktur komputasi yang stabil.
 
-* **Fokus Utama:** Full-Stack Web Development, System Architecture, & IT Infrastructure Maintenance
-* **Filosofi:** Sistem yang andal membutuhkan sinergi antara kode berkualitas, optimasi database, dan pemeliharaan IT yang terkonfigurasi dengan baik.
-* **Reach out to me:** [novaberkatsyukurzebua@gmail.com](mailto:novaberkatsyukurzebua@gmail.com)
+*  **Fokus Utama:** Full-Stack Web Development, System Architecture, & IT Infrastructure Maintenance.
+*  **Filosofi Teknis:** Kinerja aplikasi optimal lahir dari kombinasi arsitektur kode yang bersih, optimasi query database, dan pemeliharaan server yang presisi.
+*  **Pendidikan:** Sarjana Ilmu Komputer (S.Kom) — Sistem Komputer.
+*  **Kontak Kolaborasi:** [novaberkatsyukurzebua@gmail.com](mailto:novaberkatsyukurzebua@gmail.com)
 
 ---
 
-### System Architecture Core
+### ⚙️ System Architecture Core
 
-<pre><code>import { Reliability } from '@/core/it-specialist';
+```typescript
+import { Reliability } from '@/core/it-specialist';
 
-// Initialization
-const system = new InformationSystem();
-
-await system.deploy({
+// System Runtime Initialization
+const engineer = new SystemsEngineer({
   developer: 'Nova Berkat Syukur Zebua, S.Kom',
-  frontend: ['Next.js', 'React', 'Vue.js', 'Tailwind CSS'],
-  backend: ['Laravel', 'Node.js/Express', 'Python FastAPI', 'PHP'],
-  database: ['PostgreSQL', 'MySQL', 'Prisma ORM'],
-  itSpecialist: ['Server Maintenance', 'Network Config', 'Troubleshooting & Deployment'],
-  performance: 100,
-  scalable: true
+  role: 'Full-Stack Developer & IT Specialist',
+  ecosystem: {
+    frontend: ['Next.js', 'React', 'Tailwind CSS', 'Livewire', 'Vue.js'],
+    backend: ['Laravel', 'Filament', 'PHP', 'Python (FastAPI)', 'Node.js'],
+    database: ['MySQL', 'PostgreSQL', 'Prisma ORM'],
+    infrastructure: ['Server Diagnostics', 'Network Routing', 'Hardware & System Troubleshooting']
+  },
+  metrics: {
+    performance: '100%',
+    scalability: 'Production-Ready',
+    continuousIntegration: true
+  }
 });
 
-// Status: > Deployment successful. System ready.</code></pre>
-
----
-
-### Tech Stack & Skills
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Frontend & Web Technologies</h4>
-      <img src="https://img.shields.io/badge/Next-14233A?style=for-the-badge&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-      <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>Backend & Databases</h4>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>IT Specialist & Infrastructure</h4>
-      <img src="https://img.shields.io/badge/System_Architecture-06B6D4?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
-      <img src="https://img.shields.io/badge/Server_Maintenance-3B82F6?style=for-the-badge&logo=serverless&logoColor=white" />
-      <img src="https://img.shields.io/badge/Network_Config-8B5CF6?style=for-the-badge&logo=cisco&logoColor=white" />
-      <img src="https://img.shields.io/badge/Hardware_Diagnostics-10B981?style=for-the-badge&logo=intel&logoColor=white" />
-      <img src="https://img.shields.io/badge/Troubleshooting-F59E0B?style=for-the-badge&logo=buildkite&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>Cloud & DevOps Utilities</h4>
-      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-      <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
----
-
-### Experience
-
-<pre><code>Web Developer Intern — PT. Masinfo Technology Indonesia
-Sep 2024 – Jan 2025
-- Pengalaman pengembangan modul fitur aplikasi web menggunakan PHP & Framework modern.
-- Investigasi dan bug fixing aktif pada sistem produksi untuk menjaga stabilitas sistem.
-- Troubleshooting hardware & software komputer kantor secara komprehensif.</code></pre>
-
----
-
-### GitHub Stats & Activity
-
-<p align="center">
-  <a href="https://github.com/Novazeb/github-stats">
-    <img src="https://github-stats-gray-three.vercel.app/api/stats?username=Novazeb&theme=modern-rgb&v=4" alt="Nova's GitHub Stats" />
-  </a>
-  <a href="https://github.com/Novazeb/github-stats">
-    <img src="https://github-stats-gray-three.vercel.app/api/top-langs?username=Novazeb&theme=modern-rgb&layout=compact&v=4" alt="Most Used Languages" />
-  </a>
-</p>
-
-<div align="center">
-  <p>
-    S+ TIER JALUR PEMBUAT GITHUB STATS PRIBADI
-  </p>
-
-  
----
-
-### Connect with Me
-
-<div align="center">
-  <a href="https://novazebua.vercel.app/">
-      <img src="https://img.shields.io/badge/Portfolio-novazebua.vercel.app-011215?style=for-the-badge&logoColor=white" alt="Portfolio" />
-    </a>
-  <a href="https://portofolionova.netlify.app/">
-    <img src="https://img.shields.io/badge/Website-portofolionova.netlify.app-06B6D4?style=for-the-badge&logo=netlify&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/zebua_1011">
-    <img src="https://img.shields.io/badge/Instagram-@zebua__1011-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:novaberkatsyukurzebua@gmail.com">
-    <img src="https://img.shields.io/badge/Email-novaberkatsyukurzebua%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <br/><br/>
-  <sub><i>Designed by Nova Berkat Syukur Zebua</i></sub>
-
-</div>
+await engineer.deploy();
+// Status: > Deployment successful. Systems operational.
