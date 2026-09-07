@@ -82,11 +82,8 @@ await engineer.deploy();
 ### STATISTICS
 
 <p align="center">
-  <a href="https://github.com/Novazeb">
-    <img src="https://github-stats-gray-three.vercel.app/api/stats?username=Novazeb&theme=modern-rgb&rank=S%2B" alt="Novazeb's GitHub Stats" />
-  </a>
-  <a href="https://github.com/Novazeb">
-    <img src="https://github-stats-gray-three.vercel.app/api/top-langs?username=Novazeb&theme=modern-rgb&layout=compact" alt="Top Languages" />
+  <a href="https://github.com/Novazeb/github-stats">
+    <img src="https://github-stats-gray-three.vercel.app/api/combo?username=Novazeb&theme=modern-rgb&v=6" alt="Novazeb's All-in-One GitHub Stats" />
   </a>
 </p>
 
