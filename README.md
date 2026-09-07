@@ -87,7 +87,3 @@ await engineer.deploy();
   </a>
 </p>
 
- <p align="center">
-    <b>S+ TIER JALUR PEMBUAT GITHUB STATS PRIBADI</b>
-  </p>
-
