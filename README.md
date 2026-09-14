@@ -39,7 +39,7 @@ Pengembang Web & IT Specialist yang fokus merancang sistem informasi berbasis we
 <h4 align="center">Front-end</h4>
 <p align="center"> <img src="https://skillicons.dev/icons?i=nextjs,react,vue,tailwind" alt="Tech Stack" /></p>
 <h4 align="center">Back-end</h4>
-<p align="center"> <img src="https://skillicons.dev/icons?i=laravel,php,fastapi,nodejs" alt="Tech Stack" /></p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=laravel,golang,fastapi,nodejs" alt="Tech Stack" /></p>
 <h4 align="center">RDBMS</h4>
 <p align="center"> <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma" alt="Tech Stack" /> </p>
 
